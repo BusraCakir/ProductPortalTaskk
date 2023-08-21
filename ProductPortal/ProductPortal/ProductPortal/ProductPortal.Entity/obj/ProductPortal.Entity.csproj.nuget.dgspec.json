@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Entity\\ProductPortal.Entity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Core\\ProductPortal.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Core\\ProductPortal.Core.csproj",
+        "projectName": "ProductPortal.Core",
+        "projectPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Core\\ProductPortal.Core.csproj",
+        "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress 21.2\\Components\\System\\Components\\packages": {},
+          "D:\\DevExpress 21.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "DevExpress.AspNetCore.Core": {
+              "target": "Package",
+              "version": "[21.2.4, )"
+            },
+            "DevExtreme.AspNet.Core": {
+              "target": "Package",
+              "version": "[21.2.4, )"
+            },
+            "DevExtreme.AspNet.Data": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Crypt\\ProductPortal.Crypt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Crypt\\ProductPortal.Crypt.csproj",
+        "projectName": "ProductPortal.Crypt",
+        "projectPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Crypt\\ProductPortal.Crypt.csproj",
+        "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Crypt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress 21.2\\Components\\System\\Components\\packages": {},
+          "D:\\DevExpress 21.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Entity\\ProductPortal.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Entity\\ProductPortal.Entity.csproj",
+        "projectName": "ProductPortal.Entity",
+        "projectPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Entity\\ProductPortal.Entity.csproj",
+        "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress 21.2\\Components\\System\\Components\\packages": {},
+          "D:\\DevExpress 21.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Core\\ProductPortal.Core.csproj": {
+                "projectPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Core\\ProductPortal.Core.csproj"
+              },
+              "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Crypt\\ProductPortal.Crypt.csproj": {
+                "projectPath": "C:\\Users\\Büşra\\Desktop\\ProductPortal\\ProductPortal\\ProductPortal.Crypt\\ProductPortal.Crypt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\bin\Debug\net6.0\ProductPortal.Crypt.deps.json
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\bin\Debug\net6.0\ProductPortal.Crypt.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\bin\Debug\net6.0\ProductPortal.Crypt.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.csproj.AssemblyReference.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.AssemblyInfoInputs.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.AssemblyInfo.cs
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\refint\ProductPortal.Crypt.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ProductPortal.Crypt.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Crypt\obj\Debug\net6.0\ref\ProductPortal.Crypt.dll

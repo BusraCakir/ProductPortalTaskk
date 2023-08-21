@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductPortal.Core\ProductPortal.Core.csproj" />
+    <ProjectReference Include="..\ProductPortal.Domain\ProductPortal.Domain.csproj" />
+    <ProjectReference Include="..\ProductPortal.Entity\ProductPortal.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

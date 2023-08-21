@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductPortal.Core\ProductPortal.Core.csproj" />
+    <ProjectReference Include="..\ProductPortal.Domain\ProductPortal.Domain.csproj" />
+    <ProjectReference Include="..\ProductPortal.Entity\ProductPortal.Entity.csproj" />
+    <ProjectReference Include="..\ProductPortal.Infrastructure\ProductPortal.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

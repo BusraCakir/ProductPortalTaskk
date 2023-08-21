@@ -1,0 +1,17 @@
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.csproj.AssemblyReference.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.AssemblyInfoInputs.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.AssemblyInfo.cs
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Entity.deps.json
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Entity.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Entity.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Core.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Crypt.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Core.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\bin\Debug\net6.0\ProductPortal.Crypt.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.csproj.CopyComplete
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\refint\ProductPortal.Entity.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ProductPortal.Entity.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Entity\obj\Debug\net6.0\ref\ProductPortal.Entity.dll

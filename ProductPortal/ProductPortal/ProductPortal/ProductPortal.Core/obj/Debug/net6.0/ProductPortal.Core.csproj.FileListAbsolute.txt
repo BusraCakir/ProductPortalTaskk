@@ -1,0 +1,12 @@
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.csproj.AssemblyReference.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.AssemblyInfoInputs.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.AssemblyInfo.cs
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\bin\Debug\net6.0\ProductPortal.Core.deps.json
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\bin\Debug\net6.0\ProductPortal.Core.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\bin\Debug\net6.0\ProductPortal.Core.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\refint\ProductPortal.Core.dll
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ProductPortal.Core.pdb
+C:\Users\Büşra\Desktop\ProductPortal\ProductPortal\ProductPortal.Core\obj\Debug\net6.0\ref\ProductPortal.Core.dll
